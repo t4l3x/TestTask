@@ -1,0 +1,18 @@
+{
+    "name": "t4l3x/task",
+    "description": "Implement a set of classes for managing the financial",
+    "type": "project",
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^3.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "Task\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "operations of an account."
+        }
+    ]
+}
